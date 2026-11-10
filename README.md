@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2409-count-days-spent-together](https://github.com/ks97175455-lgtm/LeetCode/tree/master/2409-count-days-spent-together) |
+## Array
+|  |
+| ------- |
+| [3693-climbing-stairs-ii](https://github.com/ks97175455-lgtm/LeetCode/tree/master/3693-climbing-stairs-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3693-climbing-stairs-ii](https://github.com/ks97175455-lgtm/LeetCode/tree/master/3693-climbing-stairs-ii) |
 <!---LeetCode Topics End-->
